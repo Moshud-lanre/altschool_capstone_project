@@ -2,6 +2,8 @@
 
 This project develops an end to end ETL process using Olist dataset from Kaggle to help data end users answer some analytical questions. The project used Postgresql, Docker, Docker Compose, Airflow, dbt and Bigquery in developing the pipepline.
 
+![image](assets/project_setup.png)
+
 ## Project Steps
 
 - 1. Data Ingestion into PostgreSQL
