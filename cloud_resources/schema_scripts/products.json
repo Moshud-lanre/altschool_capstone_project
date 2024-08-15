@@ -1,0 +1,47 @@
+[
+    {
+      "name": "product_id",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "category_name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "product_name_lenght",
+      "type": "INTEGER",
+      "mode": "NULLABLE"
+    },
+    {
+        "name": "product_description_lenght",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "photos_qty",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "weight_g",
+        "type": "FLOAT64",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "length_cm",
+        "type": "FLOAT64",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "height_cm",
+        "type": "FLOAT64",
+        "mode": "NULLABLE"
+    }, 
+    {
+        "name": "width_cm",
+        "type": "FLOAT64",
+        "mode": "NULLABLE"
+    }
+]
