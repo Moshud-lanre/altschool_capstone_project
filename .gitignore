@@ -1,8 +1,10 @@
 .env
 pg_data
-*.json
+logs
 **/.terraform/*
-
+alt-capstone-8ba662470105.json
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+__pycache__

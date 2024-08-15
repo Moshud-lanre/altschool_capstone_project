@@ -1,0 +1,27 @@
+[
+    {
+      "name": "customer_id",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "customer_unique_id",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "zip_code_prefix",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+    },
+    {
+        "name": "city",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "state",
+        "type":"STRING",
+        "mode":"REQUIRED"
+    }
+]

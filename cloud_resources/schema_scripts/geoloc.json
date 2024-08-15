@@ -1,0 +1,27 @@
+[
+    {
+      "name": "zip_code_prefix",
+      "type": "INTEGER",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "latititude",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "longitude",
+      "type": "STRING",
+      "mode": "REQUIRED"
+    },
+    {
+        "name": "city",
+        "mode":"REQUIRED",
+        "type":"STRING"
+    },
+    {
+        "name": "state",
+        "type": "STRING",
+        "mode":"REQUIRED"
+    }
+]
