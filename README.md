@@ -53,7 +53,7 @@ To deploy the airflow project:
 
 - Spin up airflow :
 
-   ``bash
+   ```bash
   docker-compose up
 
 ```
@@ -94,4 +94,3 @@ Change directory to dbt-olist
 ### Answer to analytic questions
 
 Answers to the analytic question can be found in answer/answer.txt.
-
