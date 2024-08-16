@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    database: alt-capstone
+    tables:
+      - name: customers
+      - name: category_name
+      - name: geolocation
+      - name: order_items
+      - name: order_payments
+      - name: order_reviews
+      - name: orders
+      - name: products
+      - name: sellers
+      
