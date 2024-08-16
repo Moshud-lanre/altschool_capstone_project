@@ -1,0 +1,19 @@
+
+			Report on the transformation carried out on Olist ecommerce Data
+
+Transformation was carried out on the olist data and the following models were developed to answer the analytical questions:
+1. Sales by category model
+2. Average delivery time model
+3. Orders by state model.
+
+From these models, the following questions were answered:
+
+1. Which product category have the highest sales?
+
+Answer: The product with the highest sales is beleza_saude
+
+2. What is the average delivery time?
+ Answer: The average delivery time is 12 days(288 hours)
+
+3. Which state has the highest numbers of order?
+Answer: Sao Paulo (SP)

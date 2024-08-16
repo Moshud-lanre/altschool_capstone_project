@@ -42,11 +42,11 @@ COPY RAW.ORDER_REVIEWS(
     order_id,
     review_score,
     review_comment_title,
-    review_comment_msg,
+    review_comment_message,
     review_creation_date,
     review_answer_timestamp
 )
-FROM '/data/olist_order_reviews_dataset.csv' DELIMITER ',' CSV HEADER ENCODING 'utf-8';
+FROM '/data/order_reviews.csv' DELIMITER ',' CSV HEADER ENCODING 'utf-8';
 
 
 --Create Orders table

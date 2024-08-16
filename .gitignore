@@ -2,9 +2,12 @@
 pg_data
 logs
 **/.terraform/*
-alt-capstone-8ba662470105.json
+*a662470105.json
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
 __pycache__
+target/
+dbt_packages/
+logs/
+venv
