@@ -4,7 +4,7 @@ This project develops an end to end ETL process using Olist dataset from Kaggle 
 
 ![image](assets/project_setup.png)
 
-## Project Part One - EXtraction and Loadin Setup
+## Project Part One - Extraction and Loading Setup
 
 ## Step 1 : Data Ingestion into PostgreSQL Database
 
@@ -93,4 +93,5 @@ Change directory to dbt-olist
 
 ### Answer to analytic questions
 
-Answers to the analytic question can be found in answer/answer.txt
+Answers to the analytic question can be found in answer/answer.txt.
+
